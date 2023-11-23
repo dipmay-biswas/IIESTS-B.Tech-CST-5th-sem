@@ -1,8 +1,8 @@
-# All the Resources for CST 5th Semester
+## All the Resources for B.Tech CST 5th Semester
 
 
 
-## wanna contact with me?
+### wanna contact with me?
 
 - facebook: https://www.facebook.com/dipmay.biswas.1
 - Instagram: https://www.instagram.com/dipmay.dev/
