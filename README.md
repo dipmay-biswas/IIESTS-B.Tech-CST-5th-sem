@@ -44,5 +44,6 @@ Have questions or just want to chat about tech? Reach out through these channels
 - **Instagram:** [dipmay.dev](https://www.instagram.com/dipmay.dev/)
 - **Twitter:** [@dipmay_biswas](https://twitter.com/dipmay_biswas)
 - **LinkedIn:** [Dipmay Biswas](https://www.linkedin.com/in/dipmay-biswas-72a374227/)
+- **Email:** `dipmay.biswas@gmail.com`
 
 Let's embark on this learning journey together! Happy coding! 🚀✨
