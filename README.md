@@ -2,11 +2,11 @@
 
 Welcome to the ultimate hub for B.Tech CST 5th-semester success! This repository is your treasure chest, packed with notes, study materials, past papers, class tests, and solutions for the following exciting subjects:
 
-1. **Microprocessor Based Systems**
-2. **Database Management System**
-3. **Computer Architecture and Organization II**
-4. **Graph Algorithm**
-5. **Soft Computing (Elective)**
+1. **Microprocessor Based Systems** 💻🌐
+2. **Database Management System** 🛢️🔍
+3. **Computer Architecture and Organization II** 🏰💻
+4. **Graph Algorithm** 📊🧮
+5. **Soft Computing (Elective)** 🧠💡
 
 ## 📖 Table of Contents
 
@@ -40,10 +40,8 @@ Immerse yourself in the realm of Soft Computing! Explore elective-specific notes
 
 Have questions or just want to chat about tech? Reach out through these channels:
 
-- **Facebook:** [Dipmay Biswas](https://www.facebook.com/dipmay.biswas.1)
-- **Instagram:** [dipmay.dev](https://www.instagram.com/dipmay.dev/)
-- **Twitter:** [@dipmay_biswas](https://twitter.com/dipmay_biswas)
-- **LinkedIn:** [Dipmay Biswas](https://www.linkedin.com/in/dipmay-biswas-72a374227/)
-- **Email:** `dipmay.biswas@gmail.com`
-
-Let's embark on this learning journey together! Happy coding! 🚀✨
+- **Facebook:** [Dipmay Biswas](https://www.facebook.com/dipmay.biswas.1) 📘🤖
+- **Instagram:** [dipmay.dev](https://www.instagram.com/dipmay.dev/) 📸🎨
+- **Twitter:** [@dipmay_biswas](https://twitter.com/dipmay_biswas) 🐦🌐
+- **LinkedIn:** [Dipmay Biswas](https://www.linkedin.com/in/dipmay-biswas-72a374227/) 🔗💼
+- **Email:** `dipmay.biswas@gmail.com` ✉️📬
