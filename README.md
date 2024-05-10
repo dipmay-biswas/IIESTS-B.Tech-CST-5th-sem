@@ -18,7 +18,7 @@ Welcome to the ultimate hub for B.Tech CST 5th-semester success! This repository
 
 ### 🎓 Microprocessor Based Systems
 
-Dive into the world of Microprocessor Based Systems with detailed notes, essential resources, and practice questions.
+Dive into the world of Microprocessor Systems with detailed notes, essential resources, and practice questions.
 
 ### 🛢️ Database Management System
 
@@ -41,7 +41,7 @@ Immerse yourself in the realm of Soft Computing! Explore elective-specific notes
 Have questions or just want to chat about tech? Reach out through these channels:
 
 - **Facebook:** [Dipmay Biswas](https://www.facebook.com/dipmay.biswas.1) 📘🤖
-- **Instagram:** [dipmay.dev](https://www.instagram.com/dipmay.dev/) 📸🎨
+- **Instagram:** [dipmay_](https://www.instagram.com/dipmay_/) 📸🎨
 - **Twitter:** [@dipmay_biswas](https://twitter.com/dipmay_biswas) 🐦🌐
 - **LinkedIn:** [Dipmay Biswas](https://www.linkedin.com/in/dipmay-biswas-72a374227/) 🔗💼
 - **Email:** `dipmay.biswas@gmail.com` ✉️📬
